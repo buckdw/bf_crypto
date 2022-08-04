@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
  
-VERSION = '1.1.0'
+VERSION = '2.0.0'
 DESCRIPTION = 'Fernet encrypt/decrypt'
 LONG_DESCRIPTION = 'A package that provides Fernet encrypt/decrypt functions'
  
@@ -19,7 +19,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    python_requires='>=3.6',
+    python_requires='>=3.4',
     install_requires=['fernet'],
     keywords=['python', 'crypto', 'fernet'],
     classifiers=[
