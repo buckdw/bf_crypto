@@ -7,13 +7,13 @@ LONG_DESCRIPTION = 'A package that provides Fernet encrypt/decrypt functions'
  
 # Setting up
 setup(
-    name="bf_crypto",
+    name="es_crypto",
     version=VERSION,
     author="""
         Diederick de Buck
         """,
     author_email="""
-        diederick.de.buck@blue-fez.com
+        diederick.de.buck@esolutionsys.com
         """,
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
