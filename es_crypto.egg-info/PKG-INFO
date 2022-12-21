@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: es-crypto
+Version: 3.0.0
+Summary: Fernet encrypt/decrypt
+Home-page: UNKNOWN
+Author: 
+        Diederick de Buck
+        
+Author-email: 
+        diederick.de.buck@esolutionsys.com
+        
+License: UNKNOWN
+Keywords: python,crypto,fernet
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+A package that provides Fernet encrypt/decrypt functions
+
