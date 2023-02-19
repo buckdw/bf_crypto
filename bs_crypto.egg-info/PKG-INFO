@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
-Name: es-crypto
-Version: 3.0.0
+Name: bs-crypto
+Version: 3.1.0
 Summary: Fernet encrypt/decrypt
 Home-page: UNKNOWN
 Author: 
         Diederick de Buck
         
 Author-email: 
-        diederick.de.buck@esolutionsys.com
+        diederick.de.buck@blue-fez.com
         
 License: UNKNOWN
 Keywords: python,crypto,fernet

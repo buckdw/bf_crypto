@@ -1,19 +1,19 @@
 from setuptools import setup
 from setuptools import find_packages
  
-VERSION = '3.0.0'
+VERSION = '3.1.0'
 DESCRIPTION = 'Fernet encrypt/decrypt'
 LONG_DESCRIPTION = 'A package that provides Fernet encrypt/decrypt functions'
  
 # Setting up
 setup(
-    name="es_crypto",
+    name="bf_crypto",
     version=VERSION,
     author="""
         Diederick de Buck
         """,
     author_email="""
-        diederick.de.buck@esolutionsys.com
+        diederick.de.buck@blue-fez.com
         """,
     description=DESCRIPTION,
     long_description_content_type="text/markdown",

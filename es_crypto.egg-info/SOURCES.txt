@@ -1,8 +1,0 @@
-setup.py
-bf_crypto/__init__.py
-bf_crypto/crypto.py
-es_crypto.egg-info/PKG-INFO
-es_crypto.egg-info/SOURCES.txt
-es_crypto.egg-info/dependency_links.txt
-es_crypto.egg-info/requires.txt
-es_crypto.egg-info/top_level.txt
